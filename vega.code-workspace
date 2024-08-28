@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../skynet"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"skynet.h": "c"
+		},
+	}
+}
